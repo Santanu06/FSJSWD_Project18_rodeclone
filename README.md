@@ -9,7 +9,7 @@ Here i have clone the [rode.com](https://rode.com/en) home page using HTML and T
 ![badge](https://img.shields.io/badge/Time%20Taken-12hr50min-brightgreen)
 
 ### Live Link of this Project
-[ProjectLink](https://fsjswdproject17rodeclone.netlify.app/)
+[ProjectLink](https://fsjswdproject18rodeclone.netlify.app/)
 
 ## Screen shorts of this Project
 
