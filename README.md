@@ -1,9 +1,9 @@
 
-# Project 18 Rode Clone
+# Rode Clone
 
 ## Santanu Kumar Sahu
 
-Here i have clone the [rode.com](https://rode.com/en) home page using HTML and Tailwind Css.Also i have created mobile responsive design. I realy enjoyed while creating this using tailwind css. Also learned a lot about tailwind css .it's realy fun.
+Here i have clone the [rode.com](https://rode.com/en) home page using HTML and Tailwind Css.Also i have created mobile responsive design. I realy enjoyed while creating this using tailwind css. Also learned a lot about tailwind css .it's really fun.
 
 ### Time taken to Finish this project
 ![badge](https://img.shields.io/badge/Time%20Taken-12hr50min-brightgreen)
